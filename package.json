@@ -1,0 +1,22 @@
+{
+  "name": "express-test-project",
+  "version": "1.0.0",
+  "description": "test various express features",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KumarNitesh17/express-test-project.git"
+  },
+  "author": "Kumar Nitesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KumarNitesh17/express-test-project/issues"
+  },
+  "homepage": "https://github.com/KumarNitesh17/express-test-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
